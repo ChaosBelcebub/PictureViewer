@@ -1,0 +1,8 @@
+C:\Users\Michael\Documents\Projekte\PictureViewer\PictureViewer\bin\Release\PictureViewer.exe.config
+C:\Users\Michael\Documents\Projekte\PictureViewer\PictureViewer\bin\Release\PictureViewer.exe
+C:\Users\Michael\Documents\Projekte\PictureViewer\PictureViewer\bin\Release\PictureViewer.pdb
+C:\Users\Michael\Documents\Projekte\PictureViewer\PictureViewer\obj\Release\PictureViewer.Form1.resources
+C:\Users\Michael\Documents\Projekte\PictureViewer\PictureViewer\obj\Release\PictureViewer.Properties.Resources.resources
+C:\Users\Michael\Documents\Projekte\PictureViewer\PictureViewer\obj\Release\PictureViewer.csproj.GenerateResource.Cache
+C:\Users\Michael\Documents\Projekte\PictureViewer\PictureViewer\obj\Release\PictureViewer.exe
+C:\Users\Michael\Documents\Projekte\PictureViewer\PictureViewer\obj\Release\PictureViewer.pdb
